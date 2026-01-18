@@ -15,11 +15,7 @@ frequency and phase using STM32CubeMX + HAL drivers.
 - **Reference Clock (FMCLK)**: 25 MHz
 - **Communication Protocol**: SPI (Transmit Only)
 
-The following image shows the **Hardware setup**.
-
-![Hardware setup](docs/hardware_setup.jpg)
 ---
-
 ##  AD9833 IC – Fundamentals
 
 The **AD9833** is a **low power, programmable waveform generator**
@@ -109,7 +105,7 @@ D15 D14 | D13 ... D0
 
 ### Register Selection
 
-| Register | Command Bits |
+| Register | Command Bits(D15|D14) |
 |--------|--------------|
 | Control | 00 |
 | Frequency  | 01 |
