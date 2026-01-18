@@ -147,7 +147,6 @@ measured using a **Hantek DSO2D10 Digital Storage Oscilloscope**.
 ![AD9833 50kHz triangle Wave Output](docs/ad9833_triangle_50khz_scope.jpg)
 
 
-#  Author
-
-# Kunal Yadav
+##  Author
+ Kunal Yadav
 
